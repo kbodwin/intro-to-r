@@ -1,8 +1,9 @@
 ---
 title: 'Welcome'
-subtitle: 'Course details'
+subtitle: ''
 summary: Learn a little more about this course and how it works.
 date: "2020-07-01T00:00:00Z"
+publishDate: '2020-07-01'
 featured: true
 draft: false
 
