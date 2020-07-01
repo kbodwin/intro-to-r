@@ -43,7 +43,7 @@ title = "Hello!"
   icon = "patreon"
   
 [cta_alt]
-  url = "https://rstd.io/sharing"
+  url = "https://youtu.be/o2oun02f90s"
   label = "Learn More"
 
 # Note. An optional note to show underneath the links.

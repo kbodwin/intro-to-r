@@ -1,5 +1,5 @@
 ---
-title: 'Welcome'
+title: 'Welcome: Information about the course and the Patreon'
 subtitle: ''
 summary: Learn a little more about this course and how it works.
 date: "2020-07-01T00:00:00Z"
