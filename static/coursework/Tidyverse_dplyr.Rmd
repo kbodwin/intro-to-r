@@ -10,7 +10,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-options("couRsework-img_path" = "../../Images/icons") 
+options("couRsework-img_path" = "../../static/img/Images/icons") 
 ### change this if icons local
 ```
 

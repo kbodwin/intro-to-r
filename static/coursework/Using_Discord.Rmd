@@ -10,7 +10,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-options("couRsework-img_path" = "../../Images/icons") 
+options("couRsework-img_path" = "../../static/img/Images/icons") 
 ### change this if icons local
 ```
 
@@ -47,7 +47,7 @@ the Discord server.
 
 When you enter the server, you will be given some suggestions to get started.  
 
-![](../../Images/screencast_gifs/welcom_discord.png)
+![](../../static/img/Images/screencast_gifs/welcom_discord.png)
 
 
 We recommend you click through these - and in particular, it is probably a good idea to download the desktop version of Discord, and perhaps to install it on your phone if you wish.
@@ -69,13 +69,13 @@ This is simply to keep the server from being overrun by temporary accounts.
 The first thing you should do is decide what name and picture you would like to use.
 
 
-![](../../Images/screencast_gifs/pic.gif)
+![](../../static/img/Images/screencast_gifs/pic.gif)
 
 We would like to **strongly** encourage you to use your **real name and picture**, 
 so that we can get to know you.  However, if you prefer to remain anonymous, 
 you are free to do so.
 
-![](../../Images/screencast_gifs/pic_name.gif)
+![](../../static/img/Images/screencast_gifs/pic_name.gif)
 
 
 (Please do not be like Regina and use the name of another real person, however!  
@@ -89,23 +89,23 @@ Feel free to make any changes that work for you, though.
 
 You can change your message notifications:
 
-![](../../Images/screencast_gifs/notifications.gif)
+![](../../static/img/Images/screencast_gifs/notifications.gif)
 
 
 You can edit your privacy settings, although most things are already private:
 
-![](../../Images/screencast_gifs/privacy.gif)
+![](../../static/img/Images/screencast_gifs/privacy.gif)
 
 ### Connect other apps
 
 You can connect other apps to Discord, either for productivity or just for fun.
 
-![](../../Images/screencast_gifs/connect_spotify.gif)
+![](../../static/img/Images/screencast_gifs/connect_spotify.gif)
 
 
 I have connected my Spotify, so you can listen along with my music and/or judge my taste.
 
-![](../../Images/silly_gifs/Tyler.gif)
+![](../../static/img/Images/silly_gifs/Tyler.gif)
 
 
 ---
@@ -124,21 +124,21 @@ pop in from time to time!)
 
 Use the `#general` channel for anything and everything:
 
-![](../../Images/screencast_gifs/saying_hi.gif)
+![](../../static/img/Images/screencast_gifs/saying_hi.gif)
 
 If your question is about course logistics, rather than the material itself, consider using the `#class-logistics` channel:
 
-![](../../Images/screencast_gifs/logistics.gif)
+![](../../static/img/Images/screencast_gifs/logistics.gif)
 
 
 You can use the specific weekly channels to ask questions about the material...
 
-![](../../Images/screencast_gifs/github.gif)
+![](../../static/img/Images/screencast_gifs/github.gif)
 
 ... or the specific lab assignment.
 
 
-![](../../Images/screencast_gifs/code_in_chat.gif)
+![](../../static/img/Images/screencast_gifs/code_in_chat.gif)
 
 Notice that you can use tick marks (` ``` `), like in R Markdown, to make your code appear in a formatted code box.
 
@@ -154,13 +154,13 @@ I will regularly answer questions posted in this channel.
 
 To join a voice channel, simply click it!  Make sure you are careful about when you are muted or unmuted.
 
-![](../../Images/screencast_gifs/voice_channel.gif)
+![](../../static/img/Images/screencast_gifs/voice_channel.gif)
 
 The extra "Side Chat" channels are limited to 2, 4 or 8 people, if you would like to start an impromptu study conversation without being heard by the professors and/or the rest of the class.  (We'll only drop in if you invite us!)
 
 Voice channels can also be used for people to "Go Live", and share their screen with everyone else.
 
-![](../../Images/screencast_gifs/going_live.gif)
+![](../../static/img/Images/screencast_gifs/going_live.gif)
 
 While this will usually be something professors use to demonstrate code, you can go live, too!  This lets others help you troubleshoot your work.  But you may need to download the desktop version of Discord to do so.
 
@@ -169,7 +169,7 @@ While this will usually be something professors use to demonstrate code, you can
 
 It is also easy to send private messages, to your professor(s) or to each other.  These private messages can also easily be used to launch a private video chat and/or screen sharing.
 
-![](../../Images/screencast_gifs/private_message.gif)
+![](../../static/img/Images/screencast_gifs/private_message.gif)
 
 
 *Note:* Please do **not** private message me, unless you have a concern about your Patreon subscription that involves personal information.  All other questions should be posted in the public channels.
@@ -181,7 +181,7 @@ It is also easy to send private messages, to your professor(s) or to each other.
 Last but not least - if you have an established study group you like to work with, and you want to use Discord to communicate without the distraction or invasion of the rest of the class, feel free to create your very own server!  You can easily hop between servers during work parties, to ask each other questions or just to take a break and chat about life.
 
 
-![](../../Images/screencast_gifs/new_server.gif)
+![](../../static/img/Images/screencast_gifs/new_server.gif)
 
 
 ---
