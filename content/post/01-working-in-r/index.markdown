@@ -22,16 +22,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 
-links:
-- icon: puzzle-piece
-  icon_pack: fas
-  name: puzzle
-  url: /pas/01-slides.html
-- icon: laptop-code
-  icon_pack: fas
-  name: lab
-  url: /labs/Lab_1-Intro_to_R_Markdown.html
-
 ---
 
 <p>
