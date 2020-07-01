@@ -8,7 +8,7 @@ weight = 20  # Order that this section will appear.
 title = "Hello!"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "blimp.jpg"
+#hero_media = "blimp.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,7 +17,7 @@ hero_media = "blimp.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#E7EBEC"
+  color = "#a2a2d0"
   
   # Background gradient.
   #gradient_start = "#4bb4e3"
@@ -31,28 +31,31 @@ hero_media = "blimp.jpg"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://pages.rstudio.net/SharingonShortNoticeHowtoGetYourMaterialsOnlinewithRMarkdown_WebinarRegistration.html"
-  label = "Register"
-  icon_pack = "fas"
-  icon = "pen-nib"
+  url = "https://www.patreon.com/kbodwin"
+  label = "Subscribe"
+  icon_pack = "fab"
+  icon = "patreon"
   
 [cta_alt]
   url = "https://rstd.io/sharing"
-  label = "See the slides"
+  label = "Learn More"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Last updated: 2020-03-31'
+  label = 'Last updated: 2020-07-01'
 +++
 
-This is a [demo course website created](https://github.com/apreshill/share-blogdown) for an [RStudio Education](https://education.rstudio.com/) webinar by [Alison Hill](https://alison.rbind.io/) and [Desirée De Leon](https://desiree.rbind.io/).
+Welcome to **Adventures in R**, we're glad to have you on board!  
 
-To turn off this announcement, change **content/home/hero.md** from **active = true** to **active = false**.
+On this site, you will find materials for a full, 8-week, college-level course focused on learning to use **R for Data Science and Statistical Analysis**.
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/rstudio-education/sharing-short-notice" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+This course was created by [Dr. Kelly Bodwin](https://www.kelly-bodwin.com). The materials shared here are free and open source, and may be shared and adapted under the [Creative Commons license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+
+Looking for additional help with the materials, or even a **full remote learning experience**? Consider subscribing to the Course Patreon for **Office Hours** with Dr. Bodwin, **weekly feedback** on assignments, and an interactive **class Discord server**.

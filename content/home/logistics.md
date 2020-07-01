@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Logistics"
-subtitle = "We meet twice a week, alternating lectures on Mondays and labs on Wednesdays. Lab sessions will largely use the open-source R and ggplot2 tools."
+title = "What to Expect"
+subtitle = "Each week, you will find three types of posted materials."
 
 # Showcase personal skills or business features.
 # 
@@ -15,21 +15,21 @@ subtitle = "We meet twice a week, alternating lectures on Mondays and labs on We
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "cloud"
+  icon = "chalkboard-teacher"
   icon_pack = "fas"
-  name = "Location"
-  description = "Online, all the time"
+  name = "Lessons"
+  description = "Sets of videos, readings, and activities covering a particular topic. Treat these as you would in-person lecture."
   
 [[feature]]
-  icon = "play-circle"
-  icon_pack = "far"
-  name = "Lecture"
-  description = "Mondays, 12:00 – 13:30"  
+  icon = "puzzle-piece"
+  icon_pack = "fas"
+  name = "Practice Puzzles"
+  description = "Short puzzle activities with a single final correct answer.  Solve these to practice your new skills."  
   
 [[feature]]
-  icon = "code"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Labs"
-  description = "Wednesdays, 12:00 – 13:30"
+  description = "Guided analyses of real data followed by open-ended questions. Devote time and focus to these to fully master the week's skills."
 
 +++

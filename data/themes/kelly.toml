@@ -1,0 +1,21 @@
+# Theme metadata
+name = "intro-to-r"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#26116c"
+
+# Menu
+menu_primary = "#26116c"
+menu_text = "#FEFCF4"
+menu_text_active = "#fd5e53"
+menu_title = "#FEFCF4"
+
+# Backgrounds
+background = "#FEFCF4"
+home_section_odd = "#FEFCF4"
+home_section_even = "#FEFCF4"
+
+font = "ssn"
