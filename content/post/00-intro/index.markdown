@@ -3,7 +3,7 @@ title: 'Welcome'
 subtitle: 'Course details'
 summary: Learn a little more about this course and how it works.
 date: "2020-07-01T00:00:00Z"
-featured: false
+featured: true
 draft: false
 
 # Featured image

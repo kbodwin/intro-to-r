@@ -3,7 +3,8 @@ title: 'Week 1: Setup and First Visualizations'
 subtitle: ''
 summary: Get started with R, RStudio, and R Markdown; make your first data visualizations.
 date: "2020-07-06T00:00:00Z"
-featured: false
+publishDate: '2020-07-01'
+featured: true
 draft: false
 
 # Featured image

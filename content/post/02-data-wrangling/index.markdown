@@ -3,7 +3,8 @@ title: 'Week 2: Workflow and Data Wrangling'
 subtitle: ''
 summary: Learn the basics of data wrangling with dplyr; good reproducibility habits.
 date: "2020-07-13T00:00:00Z"
-featured: false
+publishDate: '2020-07-01'
+featured: true
 draft: false
 
 # Featured image
