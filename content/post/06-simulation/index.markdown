@@ -2,7 +2,7 @@
 title: 'Week 6: Statistical Distributions; Simulation and Estimation'
 subtitle: ''
 summary: Simulate data from common distributions; explore statistical ideas.
-date: "2020-08-11T00:00:00Z"
+date: "2020-08-10T00:00:00Z"
 publishDate: '2020-07-01'
 featured: true
 draft: false
