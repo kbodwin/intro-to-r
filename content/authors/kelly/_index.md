@@ -17,7 +17,7 @@ social:
   link: https://www.kelly-bodwin.com
 - icon: twitter
   icon_pack: fab
-  link: https://www.twitter.com/kbodwin
+  link: https://www.twitter.com/kellybodwin
 superuser: true
 user_groups:
 - Instructors
