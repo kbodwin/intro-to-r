@@ -51,7 +51,7 @@ projects: []
 </div>
 &nbsp; &nbsp; &nbsp; Time estimate: 1 hour
 <br>
-&nbsp; &nbsp; &nbsp; <a href = "/coursework/Ages_Data/" downlaod>Download the "ages" datasets</a>
+&nbsp; &nbsp; &nbsp; <a href = "/coursework/Ages_Data.zip" download>Download the "ages" datasets</a>
 </p>
 
 <br>
