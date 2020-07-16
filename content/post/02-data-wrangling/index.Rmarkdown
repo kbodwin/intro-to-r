@@ -74,7 +74,7 @@ Clean the data; figure out the mystery college.
 
 <p>
 <div style="font-size:200%">
-<i class="fas fa-laptop-code"></i> <a href = "/labs/Lab_2-dplyr-HipHop.html"><b>Lab 2</b> 
+<i class="fas fa-laptop-code"></i> <a href = "/labs/Lab-2-dplyr-HipHop.html"><b>Lab 2</b> 
 </a>
 </div>
 <div style="font-size:150%">

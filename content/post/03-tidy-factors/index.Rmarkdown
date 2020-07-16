@@ -25,4 +25,70 @@ projects: []
 
 ---
 
-(Coming soon!)
+
+<p>
+<div style="font-size:200%">
+<i class="fas fa-chalkboard-teacher"></i> <a href = "/coursework/Factors_Strings_Dates.html"><b>Lesson 3.1</b> 
+</a>
+</div>
+<div style="font-size:150%">
+&nbsp; &nbsp;  Factors, Strings, and Dates</a>
+</div>
+&nbsp; &nbsp; &nbsp; Time estimate: 2.5 hours
+<br>
+&nbsp; &nbsp; &nbsp; <a href = "/coursework/colleges_clean.csv" download>Download the "colleges_clean" data</a>
+&nbsp; &nbsp; &nbsp; <a href = "/coursework/zodiac.csv" download>Download the "zodiac" data</a>
+</p>
+
+<br>
+
+<p>
+<div style="font-size:200%">
+<i class="fas fa-chalkboard-teacher"></i> <a href = "/coursework/Reshaping_Joining.html"><b>Lesson 3.2</b>
+</a>
+</div>
+<div style="font-size:150%">
+&nbsp; &nbsp;  Tidy Data: Reshaping and Joining
+</div>
+&nbsp; &nbsp; &nbsp; Time estimate: 1.5 hours
+<br>
+&nbsp; &nbsp; &nbsp; <a href = "/coursework/cereals.csv" download>Download the "cereal" datasets</a>
+</p>
+
+<br>
+
+<p>
+<div style="font-size:200%">
+<i class="fas fa-puzzle-piece"></i> <a href = "/pas/PA_3-lubridate.html"><b>Puzzle 3</b> 
+</a>
+</div>
+<div style="font-size:150%">
+&nbsp; &nbsp;   
+Solve the mystery of the Zodiac killer.
+</div>
+&nbsp; &nbsp; &nbsp;  Time estimate: 1 hour
+<br>
+&nbsp; &nbsp; &nbsp;  Due date: Thursday, July 23rd
+<br>
+&nbsp; &nbsp; &nbsp; <a href = "/coursework/suspects_times.csv" download>Download the "suspects_times" datasets</a>
+</p>
+
+<br>
+
+<p>
+<div style="font-size:200%">
+<i class="fas fa-laptop-code"></i> <a href = "/labs/Lab-3-stringr-Billboard.html"><b>Lab 3</b> 
+</a>
+</div>
+<div style="font-size:150%">
+&nbsp; &nbsp;&nbsp;  
+Explore Billboard Top 100 songs; analyze dates, song titles, and artists.
+</div>
+&nbsp; &nbsp;  &nbsp; Time estimate: 5 hours
+<br>
+&nbsp; &nbsp; &nbsp; Due date: Sunday, July 26th
+</p>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
