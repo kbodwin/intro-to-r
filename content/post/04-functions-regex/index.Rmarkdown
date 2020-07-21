@@ -68,14 +68,14 @@ Unscramble a secret message.
 <br>
 &nbsp; &nbsp; &nbsp;  Due date: Thursday, July 30th
 <br>
-&nbsp; &nbsp; &nbsp; <a href = "/coursework/strambled_message.txt" download>Download the "scrambled_message" file</a>
+&nbsp; &nbsp; &nbsp; <a href = "/coursework/scrambled_message.txt" download>Download the "scrambled_message" file</a>
 </p>
 
 <br>
 
 <p>
 <div style="font-size:200%">
-<i class="fas fa-puzzle-piece"></i> <a href = "/pas/PA-functions.html"><b>Puzzle 3.2</b> 
+<i class="fas fa-puzzle-piece"></i> <a href = "/pas/PA-function-writing.html"><b>Puzzle 3.2</b> 
 </a>
 </div>
 <div style="font-size:150%">
@@ -85,8 +85,6 @@ Find the secret numbers.
 &nbsp; &nbsp; &nbsp;  Time estimate: 30 min
 <br>
 &nbsp; &nbsp; &nbsp;  Due date: Thursday, July 30th
-<br>
-&nbsp; &nbsp; &nbsp; <a href = "/coursework/strambled_message.txt" download>Download the "scrambled_message" file</a>
 </p>
 
 <br>
