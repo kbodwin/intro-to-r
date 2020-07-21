@@ -16,22 +16,6 @@
 
 <title>Puzzle Activity: Writing Functions</title>
 
-<script>// Hide empty <a> tag within highlighted CodeBlock for screen reader accessibility (see https://github.com/jgm/pandoc/issues/6352#issuecomment-626106786) -->
-// v0.0.1
-// Written by JooYoung Seo (jooyoung@psu.edu) and Atsushi Yasumoto on June 1st, 2020.
-
-document.addEventListener('DOMContentLoaded', function() {
-  const codeList = document.getElementsByClassName("sourceCode");
-  for (var i = 0; i < codeList.length; i++) {
-    var linkList = codeList[i].getElementsByTagName('a');
-    for (var j = 0; j < linkList.length; j++) {
-      if (linkList[j].innerHTML === "") {
-        linkList[j].setAttribute('aria-hidden', 'true');
-      }
-    }
-  }
-});
-</script>
 
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -215,7 +199,7 @@ code span.ot { color: #007020; }
 <span id="cb3-17"><a href="#cb3-17"></a><span class="kw">every_other</span>(test)</span>
 <span id="cb3-18"><a href="#cb3-18"></a><span class="kw">every_other</span>(test, <span class="dt">start =</span> <span class="dv">2</span>)</span></code></pre></div>
 <ol start="4" style="list-style-type: decimal">
-<li>Write a function called <code>shorten()</code> which takes a vector and keeps dropping the last value, until the sum of the vector is less than 350 Return the remaining values.</li>
+<li>Write a function called <code>shorten()</code> which takes a vector and keeps dropping the first value, until the sum of the vector is less than 350 Return the remaining values.</li>
 </ol>
 <p><em>Hint: You probably want to either use the <code>cumsum()</code> function, or write a <code>while()</code> loop.</em></p>
 <p>Be sure to test your function.</p>

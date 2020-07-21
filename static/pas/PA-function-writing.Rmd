@@ -77,7 +77,7 @@ every_other(test, start = 2)
 
 
 
-4. Write a function called `shorten()` which takes a vector and keeps dropping the last value, until the sum of the vector is less than 350  Return the remaining values.
+4. Write a function called `shorten()` which takes a vector and keeps dropping the first value, until the sum of the vector is less than 350  Return the remaining values.
 
 *Hint: You probably want to either use the `cumsum()` function, or write a `while()` loop.*
 
