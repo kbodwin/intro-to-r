@@ -70,7 +70,7 @@ Solve the mystery of the Zodiac killer.
 <br>
 &nbsp; &nbsp; &nbsp;  Due date: Thursday, July 23rd
 <br>
-&nbsp; &nbsp; &nbsp; <a href = "/pas/suspect_times.csv" download>Download the "suspects_times" dataset</a>
+&nbsp; &nbsp; &nbsp; <a href = "/pas/suspect_times.csv" download>Download the "suspect_times" dataset</a>
 </p>
 
 <br>
