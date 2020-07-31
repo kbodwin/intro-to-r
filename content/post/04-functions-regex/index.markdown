@@ -44,7 +44,7 @@ projects: []
 
 <p>
 <div style="font-size:200%">
-<i class="fas fa-chalkboard-teacher"></i> <a href = "/coursework/Writing_Functions.html"><b>Lesson 3.2</b>
+<i class="fas fa-chalkboard-teacher"></i> <a href = "/coursework/Writing_Functions.html"><b>Lesson 4.2</b>
 </a>
 </div>
 <div style="font-size:150%">
@@ -57,7 +57,7 @@ projects: []
 
 <p>
 <div style="font-size:200%">
-<i class="fas fa-puzzle-piece"></i> <a href = "/pas/PA-regex.html"><b>Puzzle 3.1</b> 
+<i class="fas fa-puzzle-piece"></i> <a href = "/pas/PA-regex.html"><b>Puzzle 4.1</b> 
 </a>
 </div>
 <div style="font-size:150%">
@@ -75,7 +75,7 @@ Unscramble a secret message.
 
 <p>
 <div style="font-size:200%">
-<i class="fas fa-puzzle-piece"></i> <a href = "/pas/PA-function-writing.html"><b>Puzzle 3.2</b> 
+<i class="fas fa-puzzle-piece"></i> <a href = "/pas/PA-function-writing.html"><b>Puzzle 4.2</b> 
 </a>
 </div>
 <div style="font-size:150%">
