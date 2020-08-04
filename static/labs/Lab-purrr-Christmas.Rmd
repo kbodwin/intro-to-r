@@ -48,20 +48,24 @@ repetitive song.
 
 ## The Package
 
-A package has been created for you at https://github.com/Adventures-R/twelvedays
+Go to https://github.com/Adventures-R/twelvedays to find 
+the package for this week's lab.
 
-Alas, the functions in the package are not complete.  Your job is to fill out the
-rest of the code inside the functions.
+Fortunately, I have already created the main structure of the package for you.
+Unfortunately, the functions in the package are not complete.  
+Your job is to fill out the
+rest of the code inside the functions. 
 
-You can copy this package to your computer through GitHub Desktop...
+To get your own copy of the package repository, you'll want to **fork** it from
+the `Adventures-R` account.
+You can then **clone** the repository; i.e., download a copy to your local 
+machine.  You can do this via GitHub Desktop (recommended!) or by downloading 
+and unzipping a compressed file.
 
-![](clone_from_url.gif)
+![](fork_clone.gif)
 
-...or by downloading the package folder directly from online:
 
-![](clone_from_online.gif)
-
-Once you have downloaded the folder, double-click the `.Rproj` file inside to
+Once you have downloaded the repository folder, double-click the `.Rproj` file inside to
 launch your R Project.
 
 ### A Test Dataset
@@ -83,11 +87,53 @@ functions.
 The packages `dplyr`, `stringr`, `glue`, and `purrr` are already imported into
 the `twelvedays` package, so you can use functions from these without worrying.
 
-If you want to rely on functions from other packages that's fine, but you need to do
-the following:
+If you want to rely on functions from other packages that's fine, but you need to 
+deal with two fiddly steps:
 
 1.  Type `usethis::use_package("packagename")` into the **console**.
 2.  Add `@import packagename` in the top section of each `.R` file.
+
+Other than this quirk, you do not need to edit any of the package files or documentation
+in `twelvedays`.
+
+
+### Advice
+
+#### Workflow
+
+A function in a package is no different than any other function.  I suggest you
+make an R Markdown file just for yourself, while you work on designing your
+functions and testing them on small examples.
+
+Once you feel confident in your function code, copy your work into the appropriate
+files in the `twelvedays` package folder.
+
+Make sure that after each function is finished, you **commit** your work to Git.
+(You do not need to **push** to GitHub until you are done with everything.)
+
+
+#### Build from small pieces
+
+If you have some trouble getting started, I recommend writing a function that
+works in one case, and then trying to generalize.
+
+For example, in building my `sing_day` function, I might first write a version 
+called `sing_third_day` that sings
+
+```
+On the third day of Christmas, my true love gave to me:
+three french hens,
+two turtle doves,
+and a patridge in a pear tree.
+```
+
+#### Don't sweat the small stuff
+
+There's a lot you can do to polish up the way the song prints.
+
+However, the goal of this lab is to practice writing functions and using iteration.
+Don't get bogged down in details like how the song displays, or small grammar
+rules, until you've finished the main tasks.
 
 ---
 
@@ -221,6 +267,8 @@ In your console, type
 ```{r}
 remotes::install_github("yourname/twelvedays")
 ```
+
+If it prompts you to update packages, I recommend skipping that for now.
 
 #### Load the package
 
