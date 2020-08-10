@@ -25,4 +25,52 @@ projects: []
 
 ---
 
-(Coming soon!)
+
+<p>
+<div style="font-size:200%">
+<i class="fas fa-chalkboard-teacher"></i> <a href = "/coursework/Simulation.html"><b>Lesson 6.1</b> 
+</a>
+</div>
+<div style="font-size:150%">
+&nbsp; &nbsp;  Regular Expressions</a>
+</div>
+&nbsp; &nbsp; &nbsp; Time estimate: 3 hours
+</p>
+
+<br>
+
+<p>
+<div style="font-size:200%">
+<i class="fas fa-puzzle-piece"></i> <a href = "/pas/PA_6-Simulation.html"><b>Puzzle 6</b> 
+</a>
+</div>
+<div style="font-size:150%">
+&nbsp; &nbsp;   
+Catch a con man.
+</div>
+&nbsp; &nbsp; &nbsp;  Time estimate: 1.5 hours
+<br>
+&nbsp; &nbsp; &nbsp;  Due date: Thursday, August 13th
+</p>
+
+<br>
+
+
+<p>
+<div style="font-size:200%">
+<i class="fas fa-laptop-code"></i> <a href = "/labs/Lab-Simulation-Solutions.html"><b>Lab 6</b> 
+</a>
+</div>
+<div style="font-size:150%">
+&nbsp; &nbsp;&nbsp;  
+Simulate data to illustrate and explore the Central Limit Theorem.
+</div>
+&nbsp; &nbsp;  &nbsp; Time estimate: 6 hours
+<br>
+&nbsp; &nbsp; &nbsp; Due date: Sunday, August 16th
+</p>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+

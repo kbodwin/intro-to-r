@@ -1,8 +1,8 @@
 ---
-title: 'Week 7: Regression and Hypothesis Tests'
+title: 'Week 8: Regression and Hypothesis Tests'
 subtitle: ''
 summary: Learn to apply simple linear regression and basic hypothesis tests to data.
-date: "2020-08-17T00:00:00Z"
+date: "2020-08-24T00:00:00Z"
 publishDate: '2020-07-01'
 featured: true
 draft: false

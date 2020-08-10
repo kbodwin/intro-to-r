@@ -1,8 +1,8 @@
 ---
-title: 'Week 8: Bootstrapping and Permutation'
+title: 'Week 7: Bootstrapping and Permutation'
 subtitle: ''
 summary: Implement resampling methods to make conclusions about data.
-date: "2020-08-24T00:00:00Z"
+date: "2020-08-17T00:00:00Z"
 publishDate: '2020-07-01'
 featured: true
 draft: false
