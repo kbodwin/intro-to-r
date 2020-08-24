@@ -41,7 +41,7 @@ projects: []
 
 <p>
 <div style="font-size:200%">
-<i class="fas fa-chalkboard-teacher"></i> <a href = "/coursework/Writing_Functions.html"><b>Lesson 8.2</b>
+<i class="fas fa-chalkboard-teacher"></i> <a href = "/coursework/Regression.html"><b>Lesson 8.2</b>
 </a>
 </div>
 <div style="font-size:150%">
@@ -72,7 +72,7 @@ Identify the mystery animal.
 
 <p>
 <div style="font-size:200%">
-<i class="fas fa-laptop-code"></i> <a href = "/labs/Lab-regression.html"><b>Lab 8</b> 
+<i class="fas fa-laptop-code"></i> <a href = "/labs/lab-babynames.html"><b>Lab 8</b> 
 </a>
 </div>
 <div style="font-size:150%">
