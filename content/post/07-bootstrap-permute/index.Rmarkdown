@@ -25,4 +25,51 @@ projects: []
 
 ---
 
-(Coming soon!)
+
+<p>
+<div style="font-size:200%">
+<i class="fas fa-chalkboard-teacher"></i> <a href = "/coursework/Bootstrapping.html"><b>Lesson 7</b> 
+</a>
+</div>
+<div style="font-size:150%">
+&nbsp; &nbsp;  Bootstrapping and Estimation</a>
+</div>
+&nbsp; &nbsp; &nbsp; Time estimate: 1.5 hours
+</p>
+
+<br>
+
+<p>
+<div style="font-size:200%">
+<i class="fas fa-puzzle-piece"></i> <a href = "/pas/PA-bootstrapping.html"><b>Puzzle 7</b> 
+</a>
+</div>
+<div style="font-size:150%">
+&nbsp; &nbsp;   
+Parameters of the Cauchy Distribution.
+</div>
+&nbsp; &nbsp; &nbsp;  Time estimate: 2 hours
+<br>
+&nbsp; &nbsp; &nbsp;  Due date: Thursday, August 20th
+</p>
+
+<br>
+
+<p>
+<div style="font-size:200%">
+<i class="fas fa-laptop-code"></i> <a href = "/labs/Lab-bootstrap-Instructions.html"><b>Lab 7</b> 
+</a>
+</div>
+<div style="font-size:150%">
+&nbsp; &nbsp;&nbsp;  
+Estimate statistics about salaries in San Francisco.
+</div>
+&nbsp; &nbsp;  &nbsp; Time estimate: 5 hours
+<br>
+&nbsp; &nbsp; &nbsp; Due date: Sunday, August 23rd
+</p>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+
