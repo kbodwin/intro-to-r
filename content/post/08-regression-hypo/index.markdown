@@ -65,7 +65,7 @@ Identify the mystery animal.
 <br>
 &nbsp; &nbsp; &nbsp;  Due date: Thursday, August 27th.
 <br>
-&nbsp; &nbsp; &nbsp; <a href = "/coursework/mystery_animal.csv" download>Download the "mystery_animal" data</a>
+&nbsp; &nbsp; &nbsp; <a href = "/pas/mystery_animal.csv" download>Download the "mystery_animal" data</a>
 </p>
 
 <br>
@@ -83,9 +83,9 @@ Discover the changing popularity of baby names over time.
 <br>
 &nbsp; &nbsp; &nbsp; Due date: Sunday, August 30th
 <br>
-&nbsp; &nbsp; &nbsp; <a href = "/coursework/babies_ca.csv" download>Download the "babies_ca" data</a>
+&nbsp; &nbsp; &nbsp; <a href = "/labs/babies_ca.csv" download>Download the "babies_ca" data</a>
 <br>
-&nbsp; &nbsp; &nbsp; <a href = "/coursework/StateNames_A.csv" download>Download the "A Names" data</a>
+&nbsp; &nbsp; &nbsp; <a href = "/labs/StateNames_A.csv" download>Download the "A Names" data</a>
 </p>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
