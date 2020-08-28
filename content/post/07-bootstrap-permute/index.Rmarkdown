@@ -67,6 +67,8 @@ Estimate statistics about salaries in San Francisco.
 &nbsp; &nbsp;  &nbsp; Time estimate: 5 hours
 <br>
 &nbsp; &nbsp; &nbsp; Due date: Sunday, August 23rd
+<br>
+&nbsp; &nbsp; &nbsp; <a href = "/labs/SF_Salaries_sub.csv" download>Download the "sf_salaries_sub" file</a>
 </p>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
